@@ -4,10 +4,12 @@ const product = require('./db/product.json');
 const user  = require('./db/user.json');
 const weather = require('./db/weather.json');
 
-module.exports = {
-  "blog-post": blogPost,
-  "order": order,
-  "product": product,
-  "user": user,
-  "weather": weather
+module.exports = function() {
+  return {
+    "blog-post": blogPost,
+    "order": order,
+    "product": product,
+    "user": user,
+    "weather": weather
+  }
 }
