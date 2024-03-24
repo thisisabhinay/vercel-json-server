@@ -1,0 +1,37 @@
+[
+  {
+    "postId": "gUVcz2DIinMtCagcfW8me",
+    "title": "5 Reasons to Start Coding Today",
+    "author": "Tech Enthusiast",
+    "content": "Coding opens up a world of possibilities...",
+    "tags": ["coding", "education", "careers"]
+  },
+  {
+    "postId": "dXEsJlBpOtAiAyqbEGhW7",
+    "title": "Best Tropical Vacation Destinations",
+    "author": "World Traveler",
+    "content": "Looking for a relaxing getaway? Here are our top picks...",
+    "tags": ["travel", "beaches", "relaxation"]
+  },
+  {
+    "postId": "FLVz0iXYKcPTRi8C9mFqB",
+    "title": "Healthy Eating on a Budget",
+    "author": "Nutrition Nut",
+    "content": "You don't have to break the bank to eat well...",
+    "tags": ["nutrition", "budgeting", "wellness"]
+  },
+  {
+    "postId": "DawUiQhScLaOKyzFtI2at",
+    "title": "Photography Tips for Beginners",
+    "author": "Camera Buff",
+    "content": "Capture stunning photos with these simple tricks...",
+    "tags": ["photography", "tips", "art"]
+  },
+  {
+    "postId": "j2vACGG9F9JKsKbauN6sh",
+    "title": "DIY Home Decor Ideas",
+    "author": "Crafty Cathy",
+    "content": "Spruce up your space on a dime...",
+    "tags": ["DIY", "home", "decor"] 
+  }  
+]

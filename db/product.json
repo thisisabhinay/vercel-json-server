@@ -1,0 +1,42 @@
+[
+  {
+    "id": "o3eDvolG3nFztpzzR_dEh",
+    "sku": "XYZ-553",
+    "name": "Super-Gadget Pro",
+    "description": "This gadget does everything you can imagine.",
+    "price": 99.99,
+    "inStock": false
+  },
+  {
+    "id": "O37kZXWqXwsHGLaRC-4nr",
+    "sku": "JKL-219",
+    "name": "Multi-Tool 5000",
+    "description": "The ultimate problem-solving tool.",
+    "price": 24.95,
+    "inStock": true
+  },
+  {
+    "id": "a8hANi1Y6TbioR7PDxeFs",
+    "sku": "MNO-682",
+    "name": "Self-Cleaning Frying Pan",
+    "description": "Cooking has never been easier!",
+    "price": 65.99,
+    "inStock": true
+  },
+  {
+    "id": "MJbYbGe32qBH1YuyczlOr",
+    "sku": "RST-044",
+    "name": "Smart Thermostat X1",
+    "description": "Control your temperature from anywhere.",
+    "price": 129.00,
+    "inStock": false
+  },
+  {
+    "id": "W7qjwL6M6uthLOSli1AUe",
+    "sku": "DEF-802",
+    "name": "Wearable Fitness Tracker",
+    "description": "Track your steps, calories, and more.",
+    "price": 79.99,
+    "inStock": true
+  }  
+]
