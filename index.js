@@ -4,7 +4,7 @@ const path = require('path')
 
 
 const server = jsonServer.create()
-const router = jsonServer.router(require('./db.js')())
+const router = jsonServer.router(path.join(__dirname, 'db.json'))
 const middlewares = jsonServer.defaults()
 
 server.use(cors())
