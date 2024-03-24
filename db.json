@@ -5,69 +5,110 @@
       "title": "5 Reasons to Start Coding Today",
       "author": "Tech Enthusiast",
       "content": "Coding opens up a world of possibilities...",
-      "tags": ["coding", "education", "careers"]
+      "tags": [
+        "coding",
+        "education",
+        "careers"
+      ]
     },
     {
       "postId": "dXEsJlBpOtAiAyqbEGhW7",
       "title": "Best Tropical Vacation Destinations",
       "author": "World Traveler",
       "content": "Looking for a relaxing getaway? Here are our top picks...",
-      "tags": ["travel", "beaches", "relaxation"]
+      "tags": [
+        "travel",
+        "beaches",
+        "relaxation"
+      ]
     },
     {
       "postId": "FLVz0iXYKcPTRi8C9mFqB",
       "title": "Healthy Eating on a Budget",
       "author": "Nutrition Nut",
       "content": "You don't have to break the bank to eat well...",
-      "tags": ["nutrition", "budgeting", "wellness"]
+      "tags": [
+        "nutrition",
+        "budgeting",
+        "wellness"
+      ]
     },
     {
       "postId": "DawUiQhScLaOKyzFtI2at",
       "title": "Photography Tips for Beginners",
       "author": "Camera Buff",
       "content": "Capture stunning photos with these simple tricks...",
-      "tags": ["photography", "tips", "art"]
+      "tags": [
+        "photography",
+        "tips",
+        "art"
+      ]
     },
     {
       "postId": "j2vACGG9F9JKsKbauN6sh",
       "title": "DIY Home Decor Ideas",
       "author": "Crafty Cathy",
       "content": "Spruce up your space on a dime...",
-      "tags": ["DIY", "home", "decor"] 
-    }  
+      "tags": [
+        "DIY",
+        "home",
+        "decor"
+      ]
+    }
   ],
   "order": [
     {
       "orderId": "PhS0wmP84YkZVSxmioB3F",
       "customer": "Emily Davis",
       "items": [
-        {"product_id": "O37kZXWqXwsHGLaRC-4nr", "quantity": 1},
-        {"product_id": "o3eDvolG3nFztpzzR_dEh", "quantity": 3}
+        {
+          "product_id": "O37kZXWqXwsHGLaRC-4nr",
+          "quantity": 1
+        },
+        {
+          "product_id": "o3eDvolG3nFztpzzR_dEh",
+          "quantity": 3
+        }
       ],
       "totalPrice": 86.29,
-      "status": "shipped" 
+      "status": "shipped"
     },
     {
       "orderId": "Ej8a8CfatM7uYUM1GJXZ8",
       "customer": "Olivia Johnson",
       "items": [
-        {"product_id": 114, "quantity": 5},
-        {"product_id": "a8hANi1Y6TbioR7PDxeFs", "quantity": 1},
-        {"product_id": "O37kZXWqXwsHGLaRC-4nr", "quantity": 1}
+        {
+          "product_id": 114,
+          "quantity": 5
+        },
+        {
+          "product_id": "a8hANi1Y6TbioR7PDxeFs",
+          "quantity": 1
+        },
+        {
+          "product_id": "O37kZXWqXwsHGLaRC-4nr",
+          "quantity": 1
+        }
       ],
       "totalPrice": 245.75,
-      "status": "pending" 
+      "status": "pending"
     },
     {
       "orderId": "kMZ-29fsZRJSGxuBTD_y2",
       "customer": "Alex Rodriguez",
       "items": [
-        {"product_id": "W7qjwL6M6uthLOSli1AUe", "quantity": 1},
-        {"product_id": "MJbYbGe32qBH1YuyczlOr", "quantity": 2}
+        {
+          "product_id": "W7qjwL6M6uthLOSli1AUe",
+          "quantity": 1
+        },
+        {
+          "product_id": "MJbYbGe32qBH1YuyczlOr",
+          "quantity": 2
+        }
       ],
       "totalPrice": 93.98,
-      "status": "canceled" 
-    } 
+      "status": "canceled"
+    }
   ],
   "product": [
     {
@@ -99,7 +140,7 @@
       "sku": "RST-044",
       "name": "Smart Thermostat X1",
       "description": "Control your temperature from anywhere.",
-      "price": 129.00,
+      "price": 129,
       "inStock": false
     },
     {
@@ -109,7 +150,7 @@
       "description": "Track your steps, calories, and more.",
       "price": 79.99,
       "inStock": true
-    }  
+    }
   ],
   "user": [
     {
@@ -118,7 +159,7 @@
       "email": "mike.johnson@example.net",
       "firstName": "Mike",
       "lastName": "Johnson",
-      "registrationDate": "2024-03-24T08:22:19Z" 
+      "registrationDate": "2024-03-24T08:22:19Z"
     },
     {
       "id": "peJW1oAF-DzheovgfChXK",
@@ -126,7 +167,7 @@
       "email": "sarah.perez@email.com",
       "firstName": "Sarah",
       "lastName": "Perez",
-      "registrationDate": "2023-08-11T16:54:06Z" 
+      "registrationDate": "2023-08-11T16:54:06Z"
     },
     {
       "id": "g5JkBLZ2oPoI1NivqEReF",
@@ -134,14 +175,14 @@
       "email": "alex.taylor@email.net",
       "firstName": "Alex",
       "lastName": "Taylor",
-      "registrationDate": "2023-11-23T04:48:33Z" 
-    }  
+      "registrationDate": "2023-11-23T04:48:33Z"
+    }
   ],
   "weather": [
     {
       "id": "elyt4dmWnWYHP3AKOxvS_",
       "city": "Bangalore",
-      "temperature": 28, 
+      "temperature": 28,
       "unit": "Celsius",
       "description": "Sunny",
       "humidity": 62
@@ -149,7 +190,7 @@
     {
       "id": "ayJMPE2dH2G4ZSn_ZfZ1G",
       "city": "London",
-      "temperature": 12, 
+      "temperature": 12,
       "unit": "Celsius",
       "description": "Rainy",
       "humidity": 90
@@ -157,7 +198,7 @@
     {
       "id": "ZZI4WIwEAWj5ATiHuWTBB",
       "city": "Sydney",
-      "temperature": 21, 
+      "temperature": 21,
       "unit": "Celsius",
       "description": "Overcast",
       "humidity": 68
@@ -165,7 +206,7 @@
     {
       "id": "ThCDDcs2DENjyfEVjGeXA",
       "city": "New York",
-      "temperature": 5, 
+      "temperature": 5,
       "unit": "Celsius",
       "description": "Snowy",
       "humidity": 55
@@ -173,10 +214,10 @@
     {
       "id": "fwrl_GeeAvT02Ta9pVUn4",
       "city": "Tokyo",
-      "temperature": 18, 
+      "temperature": 18,
       "unit": "Celsius",
       "description": "Cloudy",
       "humidity": 72
-    }  
+    }
   ]
 }
